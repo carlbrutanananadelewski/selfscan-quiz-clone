@@ -1,0 +1,759 @@
+{
+  "auditedAt": "2026-09-21T17:41:47.979Z",
+  "source": "https://selfscan3d.com/#quiz",
+  "quizId": "GhoA0K",
+  "scenarios": [
+    {
+      "scenario": {
+        "reason": "Foot pain",
+        "arch": "Normal arch",
+        "hurt": "All the time",
+        "conditions": [
+          "None"
+        ],
+        "left": [
+          "No foot pain"
+        ],
+        "right": [
+          "No foot pain"
+        ],
+        "gender": "Man",
+        "size": "10",
+        "weight": "80–125 lbs",
+        "shoes": [
+          "Sneakers / Everyday Shoes"
+        ]
+      },
+      "path": [
+        {
+          "question": "What is your main reason for seeking custom orthotics?",
+          "selected": [
+            "Foot pain"
+          ],
+          "next": "What type of arch best represents your feet?"
+        },
+        {
+          "question": "What type of arch best represents your feet?",
+          "selected": [
+            "Normal arch"
+          ],
+          "next": "How often do your feet hurt?"
+        },
+        {
+          "question": "How often do your feet hurt?",
+          "selected": [
+            "All the time"
+          ],
+          "next": "Do you have any of the following conditions"
+        },
+        {
+          "question": "Do you have any of the following conditions",
+          "selected": [
+            "None"
+          ],
+          "next": "Where are you experiencing foot pain in your left foot?"
+        },
+        {
+          "question": "Where are you experiencing foot pain in your left foot?",
+          "selected": [
+            "No foot pain"
+          ],
+          "next": "Where are you experiencing pain in your right foot?"
+        },
+        {
+          "question": "Where are you experiencing pain in your right foot?",
+          "selected": [
+            "No foot pain"
+          ],
+          "next": "What is your gender?"
+        },
+        {
+          "question": "What is your gender?",
+          "selected": [
+            "Man"
+          ],
+          "next": "What shoe size do you wear?"
+        },
+        {
+          "question": "What shoe size do you wear?",
+          "selected": [
+            "10"
+          ],
+          "next": "To ensure optimal support, we customize your orthotics based on body weight."
+        },
+        {
+          "question": "To ensure optimal support, we customize your orthotics based on body weight.",
+          "selected": [
+            "80–125 lbs"
+          ],
+          "next": "What type of shoes are you putting your orthotics in?"
+        },
+        {
+          "question": "What type of shoes are you putting your orthotics in?",
+          "selected": [
+            "Sneakers / Everyday Shoes"
+          ],
+          "next": "You're all set! Is there anything else you'd like to tell us?"
+        },
+        {
+          "question": "You're all set! Is there anything else you'd like to tell us?",
+          "selected": [
+            "(left blank, optional)"
+          ],
+          "next": "Almost done!"
+        },
+        {
+          "question": "Almost done!",
+          "selected": [
+            "name + email"
+          ],
+          "next": "You're only one step away..."
+        },
+        {
+          "question": "You're only one step away...",
+          "selected": [
+            "Let's Go -->"
+          ],
+          "next": "Awesome Branch Audit 1, we got your answers. They'll be used to create your custom orthotic."
+        }
+      ],
+      "terminal": {
+        "heading": "Awesome Branch Audit 1, we got your answers. They'll be used to create your custom orthotic.",
+        "product": "Custom Orthotic Insoles",
+        "price": "$249.00 USD"
+      }
+    },
+    {
+      "scenario": {
+        "reason": "Improved posture",
+        "arch": "Flat foot",
+        "hurt": "After a long day",
+        "conditions": [
+          "Flat feet"
+        ],
+        "left": [
+          "The arch"
+        ],
+        "right": [
+          "No foot pain"
+        ],
+        "gender": "Woman",
+        "size": "8.5",
+        "weight": "130–180 lbs",
+        "shoes": [
+          "Running Shoes"
+        ]
+      },
+      "path": [
+        {
+          "question": "What is your main reason for seeking custom orthotics?",
+          "selected": [
+            "Improved posture"
+          ],
+          "next": "What type of arch best represents your feet?"
+        },
+        {
+          "question": "What type of arch best represents your feet?",
+          "selected": [
+            "Flat foot"
+          ],
+          "next": "How often do your feet hurt?"
+        },
+        {
+          "question": "How often do your feet hurt?",
+          "selected": [
+            "After a long day"
+          ],
+          "next": "Do you have any of the following conditions"
+        },
+        {
+          "question": "Do you have any of the following conditions",
+          "selected": [
+            "Flat feet"
+          ],
+          "next": "Where are you experiencing foot pain in your left foot?"
+        },
+        {
+          "question": "Where are you experiencing foot pain in your left foot?",
+          "selected": [
+            "The arch"
+          ],
+          "next": "Where are you experiencing pain in your right foot?"
+        },
+        {
+          "question": "Where are you experiencing pain in your right foot?",
+          "selected": [
+            "No foot pain"
+          ],
+          "next": "What is your gender?"
+        },
+        {
+          "question": "What is your gender?",
+          "selected": [
+            "Woman"
+          ],
+          "next": "What shoe size do you wear?"
+        },
+        {
+          "question": "What shoe size do you wear?",
+          "selected": [
+            "8.5"
+          ],
+          "next": "To ensure optimal support, we customize your orthotics based on body weight."
+        },
+        {
+          "question": "To ensure optimal support, we customize your orthotics based on body weight.",
+          "selected": [
+            "130–180 lbs"
+          ],
+          "next": "What type of shoes are you putting your orthotics in?"
+        },
+        {
+          "question": "What type of shoes are you putting your orthotics in?",
+          "selected": [
+            "Running Shoes"
+          ],
+          "next": "You're all set! Is there anything else you'd like to tell us?"
+        },
+        {
+          "question": "You're all set! Is there anything else you'd like to tell us?",
+          "selected": [
+            "(left blank, optional)"
+          ],
+          "next": "Almost done!"
+        },
+        {
+          "question": "Almost done!",
+          "selected": [
+            "name + email"
+          ],
+          "next": "You're only one step away..."
+        },
+        {
+          "question": "You're only one step away...",
+          "selected": [
+            "Let's Go -->"
+          ],
+          "next": "Awesome Branch Audit 2, we got your answers. They'll be used to create your custom orthotic."
+        }
+      ],
+      "terminal": {
+        "heading": "Awesome Branch Audit 2, we got your answers. They'll be used to create your custom orthotic.",
+        "product": "Custom Orthotic Insoles",
+        "price": "$249.00 USD"
+      }
+    },
+    {
+      "scenario": {
+        "reason": "General wellness",
+        "arch": "High arch",
+        "hurt": "Once in a while",
+        "conditions": [
+          "Plantar fasciitis",
+          "Bunions",
+          "Hammer toes"
+        ],
+        "left": [
+          "No foot pain"
+        ],
+        "right": [
+          "The heel"
+        ],
+        "gender": "Man",
+        "size": "12",
+        "weight": "190–240 lbs",
+        "shoes": [
+          "Work / Hiking Boots",
+          "Dress Shoes"
+        ]
+      },
+      "path": [
+        {
+          "question": "What is your main reason for seeking custom orthotics?",
+          "selected": [
+            "General wellness"
+          ],
+          "next": "What type of arch best represents your feet?"
+        },
+        {
+          "question": "What type of arch best represents your feet?",
+          "selected": [
+            "High arch"
+          ],
+          "next": "How often do your feet hurt?"
+        },
+        {
+          "question": "How often do your feet hurt?",
+          "selected": [
+            "Once in a while"
+          ],
+          "next": "Do you have any of the following conditions"
+        },
+        {
+          "question": "Do you have any of the following conditions",
+          "selected": [
+            "Plantar fasciitis",
+            "Bunions",
+            "Hammer toes"
+          ],
+          "next": "Where are you experiencing foot pain in your left foot?"
+        },
+        {
+          "question": "Where are you experiencing foot pain in your left foot?",
+          "selected": [
+            "No foot pain"
+          ],
+          "next": "Where are you experiencing pain in your right foot?"
+        },
+        {
+          "question": "Where are you experiencing pain in your right foot?",
+          "selected": [
+            "The heel"
+          ],
+          "next": "What is your gender?"
+        },
+        {
+          "question": "What is your gender?",
+          "selected": [
+            "Man"
+          ],
+          "next": "What shoe size do you wear?"
+        },
+        {
+          "question": "What shoe size do you wear?",
+          "selected": [
+            "12"
+          ],
+          "next": "To ensure optimal support, we customize your orthotics based on body weight."
+        },
+        {
+          "question": "To ensure optimal support, we customize your orthotics based on body weight.",
+          "selected": [
+            "190–240 lbs"
+          ],
+          "next": "What type of shoes are you putting your orthotics in?"
+        },
+        {
+          "question": "What type of shoes are you putting your orthotics in?",
+          "selected": [
+            "Work / Hiking Boots",
+            "Dress Shoes"
+          ],
+          "next": "You're all set! Is there anything else you'd like to tell us?"
+        },
+        {
+          "question": "You're all set! Is there anything else you'd like to tell us?",
+          "selected": [
+            "(left blank, optional)"
+          ],
+          "next": "Almost done!"
+        },
+        {
+          "question": "Almost done!",
+          "selected": [
+            "name + email"
+          ],
+          "next": "You're only one step away..."
+        },
+        {
+          "question": "You're only one step away...",
+          "selected": [
+            "Let's Go -->"
+          ],
+          "next": "Awesome Branch Audit 3, we got your answers. They'll be used to create your custom orthotic."
+        }
+      ],
+      "terminal": {
+        "heading": "Awesome Branch Audit 3, we got your answers. They'll be used to create your custom orthotic.",
+        "product": "Custom Orthotic Insoles",
+        "price": "$249.00 USD"
+      }
+    },
+    {
+      "scenario": {
+        "reason": "Foot fatigue",
+        "arch": "Normal arch",
+        "hurt": "After a long day",
+        "conditions": [
+          "Morton's Nueroma"
+        ],
+        "left": [
+          "The Ankle"
+        ],
+        "right": [
+          "The Achilles area"
+        ],
+        "gender": "Woman",
+        "size": "7",
+        "weight": "250 lbs and above",
+        "shoes": [
+          "Pickleball / Tennis Shoes"
+        ]
+      },
+      "path": [
+        {
+          "question": "What is your main reason for seeking custom orthotics?",
+          "selected": [
+            "Foot fatigue"
+          ],
+          "next": "What type of arch best represents your feet?"
+        },
+        {
+          "question": "What type of arch best represents your feet?",
+          "selected": [
+            "Normal arch"
+          ],
+          "next": "How often do your feet hurt?"
+        },
+        {
+          "question": "How often do your feet hurt?",
+          "selected": [
+            "After a long day"
+          ],
+          "next": "Do you have any of the following conditions"
+        },
+        {
+          "question": "Do you have any of the following conditions",
+          "selected": [
+            "Morton's Nueroma"
+          ],
+          "next": "Where are you experiencing foot pain in your left foot?"
+        },
+        {
+          "question": "Where are you experiencing foot pain in your left foot?",
+          "selected": [
+            "The Ankle"
+          ],
+          "next": "Where are you experiencing pain in your right foot?"
+        },
+        {
+          "question": "Where are you experiencing pain in your right foot?",
+          "selected": [
+            "The Achilles area"
+          ],
+          "next": "What is your gender?"
+        },
+        {
+          "question": "What is your gender?",
+          "selected": [
+            "Woman"
+          ],
+          "next": "What shoe size do you wear?"
+        },
+        {
+          "question": "What shoe size do you wear?",
+          "selected": [
+            "7"
+          ],
+          "next": "To ensure optimal support, we customize your orthotics based on body weight."
+        },
+        {
+          "question": "To ensure optimal support, we customize your orthotics based on body weight.",
+          "selected": [
+            "250 lbs and above"
+          ],
+          "next": "What type of shoes are you putting your orthotics in?"
+        },
+        {
+          "question": "What type of shoes are you putting your orthotics in?",
+          "selected": [
+            "Pickleball / Tennis Shoes"
+          ],
+          "next": "You're all set! Is there anything else you'd like to tell us?"
+        },
+        {
+          "question": "You're all set! Is there anything else you'd like to tell us?",
+          "selected": [
+            "(left blank, optional)"
+          ],
+          "next": "Almost done!"
+        },
+        {
+          "question": "Almost done!",
+          "selected": [
+            "name + email"
+          ],
+          "next": "You're only one step away..."
+        },
+        {
+          "question": "You're only one step away...",
+          "selected": [
+            "Let's Go -->"
+          ],
+          "next": "Awesome Branch Audit 4, we got your answers. They'll be used to create your custom orthotic."
+        }
+      ],
+      "terminal": {
+        "heading": "Awesome Branch Audit 4, we got your answers. They'll be used to create your custom orthotic.",
+        "product": "Custom Orthotic Insoles",
+        "price": "$249.00 USD"
+      }
+    },
+    {
+      "scenario": {
+        "reason": "Injury prevention",
+        "arch": "Flat foot",
+        "hurt": "Once in a while",
+        "conditions": [
+          "Arthritis",
+          "Heel spurs ",
+          "Limb-length discrepancy"
+        ],
+        "left": [
+          "Ball of foot"
+        ],
+        "right": [
+          "Top of foot"
+        ],
+        "gender": "Man",
+        "size": "14",
+        "weight": "130–180 lbs",
+        "shoes": [
+          "Golf Shoes",
+          "Cycling Shoes",
+          "Basketball Shoes"
+        ]
+      },
+      "path": [
+        {
+          "question": "What is your main reason for seeking custom orthotics?",
+          "selected": [
+            "Injury prevention"
+          ],
+          "next": "What type of arch best represents your feet?"
+        },
+        {
+          "question": "What type of arch best represents your feet?",
+          "selected": [
+            "Flat foot"
+          ],
+          "next": "How often do your feet hurt?"
+        },
+        {
+          "question": "How often do your feet hurt?",
+          "selected": [
+            "Once in a while"
+          ],
+          "next": "Do you have any of the following conditions"
+        },
+        {
+          "question": "Do you have any of the following conditions",
+          "selected": [
+            "Arthritis",
+            "Heel spurs ",
+            "Limb-length discrepancy"
+          ],
+          "next": "Where are you experiencing foot pain in your left foot?"
+        },
+        {
+          "question": "Where are you experiencing foot pain in your left foot?",
+          "selected": [
+            "Ball of foot"
+          ],
+          "next": "Where are you experiencing pain in your right foot?"
+        },
+        {
+          "question": "Where are you experiencing pain in your right foot?",
+          "selected": [
+            "Top of foot"
+          ],
+          "next": "What is your gender?"
+        },
+        {
+          "question": "What is your gender?",
+          "selected": [
+            "Man"
+          ],
+          "next": "What shoe size do you wear?"
+        },
+        {
+          "question": "What shoe size do you wear?",
+          "selected": [
+            "14"
+          ],
+          "next": "To ensure optimal support, we customize your orthotics based on body weight."
+        },
+        {
+          "question": "To ensure optimal support, we customize your orthotics based on body weight.",
+          "selected": [
+            "130–180 lbs"
+          ],
+          "next": "What type of shoes are you putting your orthotics in?"
+        },
+        {
+          "question": "What type of shoes are you putting your orthotics in?",
+          "selected": [
+            "Golf Shoes",
+            "Cycling Shoes",
+            "Basketball Shoes"
+          ],
+          "next": "You're all set! Is there anything else you'd like to tell us?"
+        },
+        {
+          "question": "You're all set! Is there anything else you'd like to tell us?",
+          "selected": [
+            "(left blank, optional)"
+          ],
+          "next": "Almost done!"
+        },
+        {
+          "question": "Almost done!",
+          "selected": [
+            "name + email"
+          ],
+          "next": "You're only one step away..."
+        },
+        {
+          "question": "You're only one step away...",
+          "selected": [
+            "Let's Go -->"
+          ],
+          "next": "Awesome Branch Audit 5, we got your answers. They'll be used to create your custom orthotic."
+        }
+      ],
+      "terminal": {
+        "heading": "Awesome Branch Audit 5, we got your answers. They'll be used to create your custom orthotic.",
+        "product": "Custom Orthotic Insoles",
+        "price": "$249.00 USD"
+      }
+    },
+    {
+      "scenario": {
+        "reason": "Excelling in sports",
+        "arch": "High arch",
+        "hurt": "All the time",
+        "conditions": [
+          "Metatarsalgia",
+          "Achilles tendinitis ",
+          "Sesamoiditis"
+        ],
+        "left": [
+          "Big toe",
+          "Toes",
+          "Knee",
+          "All over"
+        ],
+        "right": [
+          "The forefoot",
+          "The Ankle",
+          "Ball of foot"
+        ],
+        "gender": "Woman",
+        "size": "6.5",
+        "weight": "250 lbs and above",
+        "shoes": [
+          "Soccer / Football Shoes",
+          "Gym / Weight Lifting Shoes",
+          "Hockey / Skates"
+        ]
+      },
+      "path": [
+        {
+          "question": "What is your main reason for seeking custom orthotics?",
+          "selected": [
+            "Excelling in sports"
+          ],
+          "next": "What type of arch best represents your feet?"
+        },
+        {
+          "question": "What type of arch best represents your feet?",
+          "selected": [
+            "High arch"
+          ],
+          "next": "How often do your feet hurt?"
+        },
+        {
+          "question": "How often do your feet hurt?",
+          "selected": [
+            "All the time"
+          ],
+          "next": "Do you have any of the following conditions"
+        },
+        {
+          "question": "Do you have any of the following conditions",
+          "selected": [
+            "Metatarsalgia",
+            "Achilles tendinitis ",
+            "Sesamoiditis"
+          ],
+          "next": "Where are you experiencing foot pain in your left foot?"
+        },
+        {
+          "question": "Where are you experiencing foot pain in your left foot?",
+          "selected": [
+            "Big toe",
+            "Toes",
+            "Knee",
+            "All over"
+          ],
+          "next": "Where are you experiencing pain in your right foot?"
+        },
+        {
+          "question": "Where are you experiencing pain in your right foot?",
+          "selected": [
+            "The forefoot",
+            "The Ankle",
+            "Ball of foot"
+          ],
+          "next": "What is your gender?"
+        },
+        {
+          "question": "What is your gender?",
+          "selected": [
+            "Woman"
+          ],
+          "next": "What shoe size do you wear?"
+        },
+        {
+          "question": "What shoe size do you wear?",
+          "selected": [
+            "6.5"
+          ],
+          "next": "To ensure optimal support, we customize your orthotics based on body weight."
+        },
+        {
+          "question": "To ensure optimal support, we customize your orthotics based on body weight.",
+          "selected": [
+            "250 lbs and above"
+          ],
+          "next": "What type of shoes are you putting your orthotics in?"
+        },
+        {
+          "question": "What type of shoes are you putting your orthotics in?",
+          "selected": [
+            "Soccer / Football Shoes",
+            "Gym / Weight Lifting Shoes",
+            "Hockey / Skates"
+          ],
+          "next": "You're all set! Is there anything else you'd like to tell us?"
+        },
+        {
+          "question": "You're all set! Is there anything else you'd like to tell us?",
+          "selected": [
+            "(left blank, optional)"
+          ],
+          "next": "Almost done!"
+        },
+        {
+          "question": "Almost done!",
+          "selected": [
+            "name + email"
+          ],
+          "next": "You're only one step away..."
+        },
+        {
+          "question": "You're only one step away...",
+          "selected": [
+            "Let's Go -->"
+          ],
+          "next": "Awesome Branch Audit 6, we got your answers. They'll be used to create your custom orthotic."
+        }
+      ],
+      "terminal": {
+        "heading": "Awesome Branch Audit 6, we got your answers. They'll be used to create your custom orthotic.",
+        "product": "Custom Orthotic Insoles",
+        "price": "$249.00 USD"
+      }
+    }
+  ]
+}
