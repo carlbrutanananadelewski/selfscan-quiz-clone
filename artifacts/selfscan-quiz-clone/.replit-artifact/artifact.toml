@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "SelfScan 3D Quiz Clone"
+description = "A pixel-faithful, fully interactive React recreation of the SelfScan 3D orthotics quiz, including its complete question flow, branching paths, progress states, pain-map illustrations, and terminal recommendation experience."
+version = "1.0.0"
+id = "artifacts/selfscan-quiz-clone"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22891
+
+[services.development]
+run = "pnpm --filter @workspace/selfscan-quiz-clone run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/selfscan-quiz-clone", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/selfscan-quiz-clone/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22891"
+BASE_PATH = "/"
